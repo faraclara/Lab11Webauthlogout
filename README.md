@@ -1,10 +1,17 @@
-Instruksi Praktikum
+# Lab11Web 
+Auth dan logout
+
+###### Nama : Fara Deviana
+###### NIM : 312010407
+###### Kelas : TI.A.2
+
+## Instruksi Praktikum
 
 1. Persiapkan text editor misalnya VSCode.
 2. Buka kembali folder dengan nama lab11_php_ci pada docroot webserver (htdocs)
 3. Ikuti langkah-langkah praktikum yang akan dijelaskan berikutnya.
 
-Langkah-langkah Praktikum
+## Langkah-langkah Praktikum
 
 Persiapan.
 Untuk memulai membuat modul Login, yang perlu disiapkan adalah database server 
@@ -14,6 +21,7 @@ XAMPP.
 #### Membuat Tabel: User Login
 
 Gambar 1 DB
+![](img/1%20satu.jpg)
 
 #### Membuat Tabel User
 

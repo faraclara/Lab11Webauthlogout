@@ -104,6 +104,8 @@ Tambahkan method logout pada Controller User seperti berikut
 
 ![](img/logout%20control.jpg)
 
+![](img/akhir%20img.jpg)
+
 
 ## Pertanyaan dan Tugas
 

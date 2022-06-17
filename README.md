@@ -20,17 +20,13 @@ XAMPP.
 
 #### 1. Membuat Tabel: User Login
 
-Gambar 1 DB
 ![](img/1%20satu1.jpg)
-
-
 
 #### 2. Membuat Model User
 
 Selanjutnya adalah membuat Model untuk memproses data Login. Buat file baru pada 
 direktori app/Models dengan nama UserModel.php
 
-Gambar 3 Model vsc
 ![](img/2%20models.jpg)
 
 #### 3. Membuat Controller User
@@ -39,8 +35,8 @@ Buat Controller baru dengan nama User.php pada direktori app/Controllers.
 Kemudian tambahkan method index() untuk menampilkan daftar user, dan method 
 login() untuk proses login.
 
-Gambar 4 Controller vsc
 ![](img/3%20controllers.jpg)
+
 ![](img/3a%20controllers.jpg)
 
 #### 4. Membuat View Login
@@ -57,19 +53,17 @@ Database seeder digunakan untuk membuat data dummy. Untuk keperluan ujicoba modu
 login, kita perlu memasukkan data user dan password kedaalam database. Untuk itu buat 
 database seeder untuk tabel user. Buka CLI, kemudian tulis perintah berikut:
 
-Gambar 5 CLI DB seeder
+
 ![](img/db%20seeder.jpg)
 
 Selanjutnya, buka file UserSeeder.php yang berada di lokasi direktori 
 /app/Database/Seeds/UserSeeder.php kemudian isi dengan kode berikut:
 
 ![](img/5%20userseed.jpg)
-Gambar 6 Seeder DB
+
 
 Selanjutnya buka kembali CLI dan ketik perintah berikut:
 
-
-Gambar 7 use seeder DB
 ![](img/db%20seeder2.jpg)
 
 
@@ -79,7 +73,6 @@ Gambar 7 use seeder DB
 
 Selanjutnya buka url http://localhost:8080/user/login seperti berikut:
 
-Gambar 8 Login page
 ![](img/login%20pagebener.jpg)
 
 #### 7. Menambahkan Auth Filter
@@ -87,20 +80,16 @@ Gambar 8 Login page
 Selanjutnya membuat filer untuk halaman admin. Buat file baru dengan nama Auth.php
 pada direktori app/Filters. 
 
-Gambar 9 tambah Auth
 ![](img/filter%20page.jpg)
 
 Selanjutnya buka file app/Config/Filters.php tambahkan kode berikut:
+
 ![](img/filter%20page2.jpg)
 
-Gambar 10 app/Config/Filters.php
-
-Gambar 11 isi vsc app/Config/Filters.php
 ![](img/filter%20page3.jpg)
 
 Selanjutnya buka file app/Config/Routes.php dan sesuaikan kodenya.
 
-Gambar 12 Routes
 
 #### Percobaan Akses Menu Admin
 
@@ -113,8 +102,8 @@ diakses maka, akan dimuculkan halaman login
 
 Tambahkan method logout pada Controller User seperti berikut
 
+![](img/logout%20control.jpg)
 
-Gambar 13 logout
 
 ## Pertanyaan dan Tugas
 

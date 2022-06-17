@@ -100,3 +100,37 @@ diakses maka, akan dimuculkan halaman login
 Tambahkan method logout pada Controller User seperti berikut
 
 Gambar 13 logout
+
+## Pertanyaan dan Tugas
+
+Selesaikan programnya sesuai Langkah-langkah yang ada. Anda boleh melakukan 
+improvisasi.
+
+## Laporan Praktikum
+
+1. Melanjutkan praktikum sebelumnya pada repository dengan nama Lab11Web.
+2. Kerjakan semua latihan yang diberikan sesuai urutannya.
+3. Screenshot setiap perubahannya.
+4. Update file README.md dan tuliskan penjelasan dari setiap langkah praktikum 
+beserta screenshotnya.
+5. Commit hasilnya pada repository masing-masing.
+6. Kirim URL repository pada e-learning ecampus
+
+![](img/1%20satu1.jpg)
+![](img/2%20models.jpg)
+![](img/3%20controllers.jpg)
+![](img/3a%20controllers.jpg)
+![](img/4%20views.jpg)
+![](img/5%20seed.jpg)
+![](img/5%20userseed.jpg)
+![](img/akhir%20img.jpg)
+![](img/db%20seeder.jpg)
+![](img/db%20seeder2.jpg)
+![](img/db%20seeder3.jpg)
+![](img/filter%20page.jpg)
+![](img/filter%20page2.jpg)
+![](img/filter%20page3.jpg)
+![](img/filtter%20bener.jpg)
+![](img/login%20page.jpg)
+![](img/login%20pagebener.jpg)
+![](img/logout%20template.jpg)
